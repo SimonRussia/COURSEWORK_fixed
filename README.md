@@ -1,6 +1,6 @@
 <img src="http://abali.ru/wp-content/uploads/2013/03/Gerb_MGTU_imeni_Baumana.png" width="160" height="whatever" align="right">
 
-[![Build Status](https://travis-ci.org/SimonRussia/COURSEWORK_fixed.svg?branch=master)](https://travis-ci.org/SimonRussia/COURSEWORK_fixed) [![codecov](https://codecov.io/gh/SimonRussia/COURSEWORK_fixed/branch/master/graph/badge.svg)](https://codecov.io/gh/SimonRussia/COURSEWORK_fixed) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
+[![Build Status](https://travis-ci.org/SimonRussia/COURSEWORK_fixed.svg?branch=master)](https://travis-ci.org/SimonRussia/COURSEWORK_fixed) [![codecov](https://codecov.io/gh/SimonRussia/COURSEWORK_fixed/branch/master/graph/badge.svg)](https://codecov.io/gh/SimonRussia/COURSEWORK_fixed) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE) [![Link: Coursework](https://img.shields.io/badge/coursework-link-orange.svg)](https://github.com/SimonRussia/COURSEWORK)
 
 ## Курсовой проект
 Тема: ***Реализация основных алгоритмов сортировок***
