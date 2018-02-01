@@ -11,7 +11,7 @@ void bucket() {
     long int ARRAY_LEN;
     const int INT_RANGE = 100;
 
-    for (ARRAY_LEN = 1000; ARRAY_LEN < 10000000; ARRAY_LEN *= 10) {
+    for (ARRAY_LEN = 1000; ARRAY_LEN < 10000000000; ARRAY_LEN *= 10) {
         std::cout << "Time for " << ARRAY_LEN << " size:\t";
 
         std::random_device rd;
